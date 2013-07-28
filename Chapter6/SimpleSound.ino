@@ -1,3 +1,6 @@
+/*
+*/
+ 
 const int speakerPin = 9;
 const int sensorPin = 0;
 

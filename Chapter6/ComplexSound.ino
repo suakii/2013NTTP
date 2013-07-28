@@ -1,3 +1,7 @@
+
+/*
+*/
+
 const int speakerPin = 9; 
 char noteNames[] =     {'C','D','E','F','G','a','b'};
 unsigned int frequencies[] = {262,294,330,349,392,440,494};

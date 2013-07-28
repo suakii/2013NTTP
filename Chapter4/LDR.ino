@@ -1,3 +1,6 @@
+/*
+*/
+
 int sensorPin = 0;
 int ledPin = 6;
 int sensorValue = 0;

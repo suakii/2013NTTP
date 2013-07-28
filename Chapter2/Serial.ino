@@ -1,3 +1,6 @@
+/*
+*/
+
 int del = 100;
 char buffer[5];//pin 4,5,6,7,8
 void setup() 

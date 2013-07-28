@@ -1,6 +1,6 @@
-/-
- 7 Segment
-*-
+/*
+*/
+
 byte digitFor7Segment[10][7] = {
         //2, 3, 4, 5, 6, 7, 8 - 아두이노의 IO Port와 segment 연결
         //9 pin for dot        
